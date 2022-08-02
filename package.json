@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/jinlianglou/event.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["browser","event","custom","customevent"],
+  "author": "1960694006@qq.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jinlianglou/event/issues"
