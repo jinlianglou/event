@@ -6,6 +6,9 @@
   "scripts": {
     "start": "rollup -c"
   },
+  "files":[
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jinlianglou/event.git"
