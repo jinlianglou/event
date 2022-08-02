@@ -28,7 +28,7 @@
 
 ### 通过 esm 导入
 ```js
-import event from 'event/dist/event.esm'
+import event from '@jinlinglou/dist/event.esm'
 
 
 function App(){
@@ -38,7 +38,7 @@ function App(){
 
 ### 通过 CommonJS 导入
 ```js
-const event = require('event/dist/event.umd');
+const event = require('@jinlinglou/dist/event.umd');
 
 function App(){
   
