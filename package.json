@@ -1,6 +1,6 @@
 {
   "name": "@jinlianglou/event",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于浏览器端的自定义事件管理器",
   "main": "dist/event.esm.js",
   "scripts": {
