@@ -6,14 +6,19 @@
   "scripts": {
     "start": "rollup -c"
   },
-  "files":[
+  "files": [
     "dist"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jinlianglou/event.git"
   },
-  "keywords": ["browser","event","custom","customevent"],
+  "keywords": [
+    "browser",
+    "event",
+    "custom",
+    "customevent"
+  ],
   "author": "1960694006@qq.com",
   "license": "ISC",
   "bugs": {

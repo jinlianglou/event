@@ -27,10 +27,11 @@
 </body>
 </html>
 ```
+npm install @jinlianglou/event --save
 
 ### 通过 esm 导入
 ```js
-import event from '@jinlianglou/dist/event.esm'
+import event from '@jinlianglou/event'
 
 
 function App(){
@@ -40,7 +41,7 @@ function App(){
 
 ### 通过 CommonJS 导入
 ```js
-const event = require('@jinlianglou/dist/event.umd');
+const event = require('@jinlianglou/event/dist/event.umd');
 
 function App(){
   
@@ -62,3 +63,10 @@ function App(){
 
 ### 只执行一次的事件(事件被触发一次之后，便会remove)
 + evnet.once('eventName', function)
+
+
+
+# 更新日志
+
+## 2022-09-05
+1、更新注释，使每个API都有提示
